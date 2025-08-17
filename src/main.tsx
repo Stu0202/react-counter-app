@@ -8,8 +8,11 @@ import { MyAwesomeApp } from './MyAwesomeApp'
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
 
-    {/* <FirstStepsApp/> */}
-    <MyAwesomeApp />
+    <h1>Carrito de Compras</h1>
+    <FirstStepsApp />
+    <FirstStepsApp />
+    <FirstStepsApp />
+    {/* <MyAwesomeApp /> */}
 
   </React.StrictMode>,
 )

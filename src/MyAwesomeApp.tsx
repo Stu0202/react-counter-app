@@ -31,9 +31,7 @@ export function MyAwesomeApp() {
 
             <h1>{isActive ? 'Activo!' : 'No activo'}</h1>
 
-            <p
-                style={myStyles}
-            > {JSON.stringify(address)} </p>
+            <p style={myStyles}> {JSON.stringify(address)} </p>
         </>
 
     )
