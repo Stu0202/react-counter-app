@@ -10,8 +10,7 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
 
     <h1>Carrito de Compras</h1>
     <FirstStepsApp />
-    <FirstStepsApp />
-    <FirstStepsApp />
+
     {/* <MyAwesomeApp /> */}
 
   </React.StrictMode>,

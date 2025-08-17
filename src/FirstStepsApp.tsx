@@ -4,7 +4,9 @@ export function FirstStepsApp() {
 
     return (
         <>
-            <ItemCounter />
+            <ItemCounter name='Play Station 5' quantity={4} />
+            <ItemCounter name='Xbox Series x' quantity={1} />
+            <ItemCounter name='Pc Gamer' quantity={2} />
         </>
 
     )
