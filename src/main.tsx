@@ -7,9 +7,9 @@ import { MyAwesomeApp } from './MyAwesomeApp'
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
-    
-    <FirstStepsApp/>
-    <MyAwesomeApp/>
-    
+
+    {/* <FirstStepsApp/> */}
+    <MyAwesomeApp />
+
   </React.StrictMode>,
 )
