@@ -1,10 +1,13 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
+import { FirstStepsApp } from './FirstStepsApp'
 
 
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
-    <h1>Hola Mundo</h1>
+    
+    <FirstStepsApp/>
+    
   </React.StrictMode>,
 )
